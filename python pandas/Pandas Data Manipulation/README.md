@@ -1,5 +1,5 @@
 # Zadanie
-`Przeanalizuj strukturę plików w katalogu data, zapoznaj się z ich zawartością oraz danymi, które zawierają. Uzupełnij brakujące zadania`
+`Przeanalizuj strukturę plików w katalogu data, zapoznaj się z ich zawartością oraz danymi, które zawierają. Uzupełnij brakujące zadaniaś`
 
 # Dlaczego pandas ?
 
